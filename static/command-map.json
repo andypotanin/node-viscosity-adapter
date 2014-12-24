@@ -1,0 +1,32 @@
+{
+  "identify": {
+    "name": "identify",
+    "command": "I01B0",
+    "crc": "8134"
+  },
+  "tech": {
+    "name": "tech",
+    "command": "T01FE",
+    "crc": "0199"
+  },
+  "spinStart": {
+    "name": "spinStart",
+    "command": "V00008317",
+    "crc": "0009D"
+  },
+  "spin3": {
+    "name": "spin3",
+    "command": "V001E02B4",
+    "crc": "836C"
+  },
+  "spinFast": {
+    "name": "spinFast",
+    "command": "V03E883A0",
+    "crc": "0333"
+  },
+  "zero": {
+    "name": "zero",
+    "command": "Z81D9",
+    "crc": "0073"
+  }
+}
